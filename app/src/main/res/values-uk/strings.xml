@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Решітка Пеннета</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Решітка Пеннета</string>
+    <string name="nav_header_subtitle">vitalytyrenko7@gmail.com</string>
+
+    <string name="menu_home">Головна</string>
+    <string name="menu_about">Про додаток</string>
+    <string name="menu_send">Зв\'язатися з нами</string>
+    <string name="title_activity_table">Результат</string>
+    <string name="title_activity_about">Про додаток</string>
+
+    <string name="first_parent">Перший батьківський організм</string>
+    <string name="second_parent">Другий батьківський організм</string>
+    <string name="generate_square">Створити таблицю</string>
+    <string name="fields_not_correct">Деякі поля заповнені некоректно</string>
+
+    <string name="storage_is_not_available">Накопичувач недоступний</string>
+    <string name="file_saved_to">Файл збережено в&#8194;</string>
+    <string name="error_while_saving">Помилка під час збереження</string>
+
+    <string name="about_text">
+        Автор ідеї: obezkr\nРозробка для Android: YILATIV\n\Додаток створено для допомоги у вивченні
+        біології та є повністю безкоштовним
+    </string>
+
+    <string name="send_email">Надіслати email</string>
+    <string name="no_email_client">Поштовий клієнт не встановлено</string>
+    <string name="no_permission">Без дозволу ви не зможете зберігати дані у файли</string>
+    <string name="save_as">Зберегти як:</string>
+</resources>

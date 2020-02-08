@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Punnett Square</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Punnett Square</string>
+    <string name="nav_header_subtitle">vitalytyrenko7@gmail.com</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="menu_send">Contact us</string>
+    <string name="title_activity_table">Result</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="first_parent">First parent</string>
+    <string name="second_parent">Second parent</string>
+    <string name="generate_square">Generate table</string>
+    <string name="fields_not_correct">Some fields are filled incorrectly</string>
+
+    <string name="storage_is_not_available">Storage is not available</string>
+    <string name="file_saved_to">File saved to&#8194;</string>
+    <string name="error_while_saving">Error while saving</string>
+
+    <string name="about_text">
+        Author of an idea: obezkr\nAndroid adaptation: YILATIV\n\nThis app was created for
+        free education and assistance in biology
+    </string>
+
+    <string name="send_email">Send email</string>
+    <string name="no_email_client">There is no email client installed</string>
+    <string name="no_permission">Without permission, you cannot save data to files</string>
+    <string name="save_as">Save as:</string>
+</resources>

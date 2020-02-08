@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Решётка Пеннета</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Решётка Пеннета</string>
+    <string name="nav_header_subtitle">vitalytyrenko7@gmail.com</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_send">Связаться с нами</string>
+    <string name="title_activity_table">Результат</string>
+    <string name="title_activity_about">О приложении</string>
+
+    <string name="first_parent">Первый родитель</string>
+    <string name="second_parent">Второй родитель</string>
+    <string name="generate_square">Создать таблицу</string>
+    <string name="fields_not_correct">Некоторые поля заполнены некорректно</string>
+
+    <string name="storage_is_not_available">Накопитель недоступен</string>
+    <string name="file_saved_to">Файл сохранен в&#8194;</string>
+    <string name="error_while_saving">Ошибка во время сохранения</string>
+
+    <string name="about_text">
+        Автор идеи: obezkr\nРазработка под Android: YILATIV\n\nПриложение разработано для помощи в
+        биологии и является полностью бесплатным
+    </string>
+
+    <string name="send_email">Отправить email</string>
+    <string name="no_email_client">Почтовый клиент не установлен</string>
+    <string name="no_permission">Без разрешения вы не сможете сохранять данные в файлы</string>
+    <string name="save_as">Сохранить как:</string>
+</resources>
